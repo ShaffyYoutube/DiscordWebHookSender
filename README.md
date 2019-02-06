@@ -1,2 +1,5 @@
 # DiscordWebHookSender
-A batch program (you can't even call that a program) that can post message with webhooks
+You need cURL to use this program.
+Launch the .bat file, put the webhook URL and send a message.
+
+(That litterally a bad program.)
